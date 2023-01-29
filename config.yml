@@ -22,12 +22,12 @@ notification:
   60:
     message:
     - ""
-    - "{centered}&c&lWARNING!"
-    - "{centered}&cYou have &71 minute &cleft to play on the server."
+    - "{centered}&c&lAchtung!"
+    - "{centered}&cDu hast nurnoch &71 Minuten &cübrig um auf dem Server zu spielen."
     - ""
   30:
     message:
     - ""
-    - "{centered}&c&lWARNING!"
-    - "{centered}&cYou have &730 seconds &cleft to play on the server."
+    - "{centered}&c&lAchtung!"
+    - "{centered}&cDu hast nur noch &730 Sekunden &cübrig um auf dem Server zu spielen."
     - ""
